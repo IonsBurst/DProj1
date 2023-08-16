@@ -87,9 +87,13 @@ def main_page():
         graphs_and_data()
 
 
+import streamlit as st
+import json  # Don't forget to import the json module if it's not already imported
+
 def prompt_request():
     st.header("What would you like Teddy to teach you today?")
 
+    # Define the buttons
     button_a = st.button("Practice naming the 4 nations in the United Kingdom.")
     button_b = st.button("Practice the vowels.")
     button_c = st.button("What are the colours in the rainbow?")
@@ -108,19 +112,16 @@ def prompt_request():
 
     for button, prompt in prompt_mapping.items():
         if button:
+            # Create a dictionary with data
             data = {"Args": prompt}
+            # Write data to a JSON file
             with open("output.json", "w") as json_file:
                 json.dump(data, json_file, indent=4)
-            file_ = open("C:\\Users\\jacki\\PycharmProjects\\pythonProject2\\teddyGif1.gif", "rb")
-            contents = file_.read()
-            data_url = base64.b64encode(contents).decode("utf-8")
-            file_.close()
-            st.markdown(
-                f'<img src="data:image/gif;base64,{data_url}" alt="teddy gif">',
-                unsafe_allow_html=True,
-            )
 
-
+            # Open the image file (modify the file path as needed)
+            with open("teddyGif1.gif", "rb") as gif_file:
+                gif_data = gif_file.read()
+                st.image(gif_data)  # Display the GIF image
 def graphs_and_data():
     st.header("Graphs and Data")
 
