@@ -4,6 +4,9 @@ import pandas as pd
 import json
 import base64
 
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
 st.markdown(
     """
     <style>
