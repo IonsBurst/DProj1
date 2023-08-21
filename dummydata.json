@@ -1,0 +1,1182 @@
+{
+  "13-05-2023 12:04:55": {
+    "age": 30,
+    "dateTime": "13-05-2023 12:04:55",
+    "name": "aashutosh",
+    "personalRecords": {
+      "CC": 14,
+      "EA": 7,
+      "TCA": 63,
+      "TQA": 64
+    },
+    "questionsData": [
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The first letter is A!\nA is for Apple, repeat after me, Apple, now you go",
+        "source": "Mic",
+        "timeInverval": "10.94s",
+        "userResponse": "Apple : apple",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Next letter is B\nB is for Ball, a ball is round, Come say it again, Ball",
+        "source": "Mic",
+        "timeInverval": "10.58s",
+        "userResponse": "Ball : ball",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Then comes C\nC is for Cat, a cat is an animal, it's your turn now",
+        "source": "Mic",
+        "timeInverval": "5.33s",
+        "userResponse": "Ball : ball",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Let's call the next letter, D\nD is for Doctor, repeat after me, Doctor, Say it again",
+        "source": "Mic",
+        "timeInverval": "11.59s",
+        "userResponse": "Doctor : doctor",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Now, comes E\nE is for Elephant, let's say it together, Elephant, Let's say it again",
+        "source": "Mic",
+        "timeInverval": "7.71s",
+        "userResponse": "Elephant : elephant",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The next letter is F\nF is for Flower, Yes, you are right, Flower, say it again, Come on.",
+        "source": "Mic",
+        "timeInverval": "9.26s",
+        "userResponse": "Flower : flower",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The next letter is F\nF is for Flower, Yes, you are right, Flower, say it again, Come on.",
+        "source": "Mic",
+        "timeInverval": "6.40s",
+        "userResponse": "Flower : flower",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Next letter is B\nB is for Ball, a ball is round, Come say it again, Ball",
+        "source": "Mic",
+        "timeInverval": "4.93s",
+        "userResponse": "Ball : ball",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Let's call the next letter, D\nD is for Doctor, repeat after me, Doctor, Say it again",
+        "source": "Mic",
+        "timeInverval": "4.90s",
+        "userResponse": "Doctor : doctor",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Let's play Football today…\nSo what are we playing again?",
+        "source": "Mic",
+        "timeInverval": "7.53s",
+        "userResponse": "Football/Soccer : football",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Let's put a ball through the hoop…\nWe are going to play Basketball… \nCome say it with me?",
+        "source": "Mic",
+        "timeInverval": "9.70s",
+        "userResponse": "Basketball : basketball",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Next we are going to use a bat and ball. We are now going to play Cricket… So what are we playing again?",
+        "source": "Mic",
+        "timeInverval": "10.50s",
+        "userResponse": "Cricket : cricket",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Let's play Tennis today... \n Are you excited? So what are we playing again?",
+        "source": "Mic",
+        "timeInverval": "9.20s",
+        "userResponse": "Tennis : tennis",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Come let's go Swimming together... \nSo what are we doing again?",
+        "source": "Mic",
+        "timeInverval": "8.18s",
+        "userResponse": "Swimming : swimming",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "We are going to go for Running, Now... \nSo get ready and say it again?",
+        "source": "Mic",
+        "timeInverval": "8.41s",
+        "userResponse": "Running : branning",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "what - 9.41s, i can't see anything - 17.91s, ",
+        "location": "Playground",
+        "question": "Let's play Football today…\nSo what are we playing again?",
+        "source": "Mic",
+        "timeInverval": "37.89s",
+        "userResponse": "Football/Soccer : soccer",
+        "userTrails": 10
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Come let's go Swimming together... \nSo what are we doing again?",
+        "source": "Mic",
+        "timeInverval": "5.26s",
+        "userResponse": "Swimming : swimming",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "there is nothing - 6.45s, ",
+        "location": "Playground",
+        "question": "We are going to go for Running, Now... \nSo get ready and say it again?",
+        "source": "Mic",
+        "timeInverval": "15.48s",
+        "userResponse": "Running : running",
+        "userTrails": 6
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "Today, we are going to cook a Pizza… \nSo, what are we going to cook today?",
+        "source": "Mic",
+        "timeInverval": "3.60s",
+        "userResponse": "Running : running",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Welcome letter G\nG is for Grass, repeat after me, Grass, now you go...",
+        "source": "Mic",
+        "timeInverval": "9.34s",
+        "userResponse": "Grass : g4 grass",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Then comes H\nH is for House, Say it along, House, come on, your turn",
+        "source": "Mic",
+        "timeInverval": "4.45s",
+        "userResponse": "House : house",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Next letter is I\nI is for Ice cream, say with a smile, Ice cream , Very good, say it again",
+        "source": "Mic",
+        "timeInverval": "5.43s",
+        "userResponse": "Ice cream : ice cream",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "jews - 5.93s, ",
+        "location": "School",
+        "question": "Now we will learn about letter J\nJ is for Juice, repeat after me, Juice, Say it for me again,",
+        "source": "Mic",
+        "timeInverval": "14.43s",
+        "userResponse": "Juice : juice",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "tight - 6.10s, guide - 7.45s, ",
+        "location": "School",
+        "question": "The next letter is K\nK is for Kite, lets say it together, Kite, now it's your turn",
+        "source": "Mic",
+        "timeInverval": "20.11s",
+        "userResponse": "Kite : kite",
+        "userTrails": 7
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "yes - 4.83s, ",
+        "location": "School",
+        "question": "Welcome letter G\nG is for Grass, repeat after me, Grass, now you go...",
+        "source": "Mic",
+        "timeInverval": "11.24s",
+        "userResponse": "Grass : grass",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "dad - 4.28s, jack - 4.38s, dad - 7.28s, dad - 13.74s, oh no it's not that it's kept - 5.60s, dad - 6.21s, dad - 31.15s, ",
+        "location": "School",
+        "question": "Then comes C\nC is for Cat, a cat is an animal, it's your turn now",
+        "source": "Mic",
+        "timeInverval": "80.09s",
+        "userResponse": "Cat : chat",
+        "userTrails": 28
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "football - 5.31s, ",
+        "location": "School",
+        "question": "Next letter is B\nB is for Ball, a ball is round, Come say it again, Ball",
+        "source": "Mic",
+        "timeInverval": "13.81s",
+        "userResponse": "Ball : ball",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is L!\nL is for Lemon, repeat after me, Lemon, now you go...",
+        "source": "Mic",
+        "timeInverval": "7.06s",
+        "userResponse": "Lemon : lemon",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Now the letter is M!\nM is for Mother, repeat after me, Mother, now you go...",
+        "source": "Mic",
+        "timeInverval": "5.55s",
+        "userResponse": "Mother : mother",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is N!\nN is for Nose, repeat after me, Nose, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.40s",
+        "userResponse": "Nose : nose",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "home - 17.49s, ",
+        "location": "School",
+        "question": "Let's welcome letter O!\nO is for Owl, repeat after me, Owl, Let's say it again",
+        "source": "Mic",
+        "timeInverval": "25.19s",
+        "userResponse": "Owl : owl",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "benson - 4.38s, ",
+        "location": "School",
+        "question": "The letter is P!\nP is for Pencil, repeat after me, Pencil, now you go...",
+        "source": "Mic",
+        "timeInverval": "9.65s",
+        "userResponse": "Pencil : pencil",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "nurse - 4.43s, nurse - 4.36s, ",
+        "location": "School",
+        "question": "Let's call the next letter, D\nD is for Doctor, repeat after me, Doctor, Say it again",
+        "source": "Mic",
+        "timeInverval": "17.29s",
+        "userResponse": "Doctor : doctor",
+        "userTrails": 7
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Then comes H\nH is for House, Say it along, House, come on, your turn",
+        "source": "Mic",
+        "timeInverval": "4.16s",
+        "userResponse": "House : home",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Next letter is B\nB is for Ball, a ball is round, Come say it again, Ball",
+        "source": "Mic",
+        "timeInverval": "4.23s",
+        "userResponse": "Ball : ball",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is Q!\nQ is for Queen, repeat after me, Queen, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.63s",
+        "userResponse": "Queen : queen",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is R!\nR is for Rainbow, a big bright Rainbow, it's your turn to say it again",
+        "source": "Mic",
+        "timeInverval": "4.81s",
+        "userResponse": "Rainbow : rainbow",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "And now we will learn about the letter S!\nS is for Snake, repeat after me, Snake, Come, say again",
+        "source": "Mic",
+        "timeInverval": "5.05s",
+        "userResponse": "Snake : snake",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "3 - 4.31s, 3 - 3.98s, 3 - 4.25s, ",
+        "location": "School",
+        "question": "The letter is T!\nT is for Tree, repeat after me, Tree, now you go...",
+        "source": "Mic",
+        "timeInverval": "22.10s",
+        "userResponse": "Tree : free",
+        "userTrails": 10
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is U!\nU is for Umbrella, repeat after me, Umbrella, now you go...",
+        "source": "Mic",
+        "timeInverval": "6.01s",
+        "userResponse": "Umbrella : umbrella",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The next letter is K\nK is for Kite, lets say it together, Kite, now it's your turn",
+        "source": "Mic",
+        "timeInverval": "4.40s",
+        "userResponse": "Kite : kite",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "used - 4.58s, ",
+        "location": "School",
+        "question": "Now we will learn about letter J\nJ is for Juice, repeat after me, Juice, Say it for me again,",
+        "source": "Mic",
+        "timeInverval": "12.03s",
+        "userResponse": "Juice : juice",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is P!\nP is for Pencil, repeat after me, Pencil, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.90s",
+        "userResponse": "Pencil : pencil",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The next letter is V!\nV is for Violin, let's repeat it, Violin, come on, your turn.",
+        "source": "Mic",
+        "timeInverval": "5.61s",
+        "userResponse": "Violin : violin",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Then comes W\nW is for World, The big, wide, World, now say it again",
+        "source": "Mic",
+        "timeInverval": "4.41s",
+        "userResponse": "World : world",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Very Good! Your are doing great... The next letter is X\nX is for X-ray, let's say it again, X-ray, now you go...",
+        "source": "Mic",
+        "timeInverval": "6.08s",
+        "userResponse": "X-ray : x-ray",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Lets learn about letter Y\nY is for Yoga, repeat after me, Yoga, come on, its your turn",
+        "source": "Mic",
+        "timeInverval": "5.15s",
+        "userResponse": "Yoga : yoga",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Hurray! The last letter is Z!\nZ is for Zebra, repeat after me, Zebra, come, say it agin",
+        "source": "Mic",
+        "timeInverval": "4.60s",
+        "userResponse": "Zebra : zebra",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "And now we will learn about the letter S!\nS is for Snake, repeat after me, Snake, Come, say again",
+        "source": "Mic",
+        "timeInverval": "4.43s",
+        "userResponse": "Snake : sneak",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "guide - 3.91s, date - 4.01s, guide - 4.25s, guide - 5.35s, ",
+        "location": "School",
+        "question": "The next letter is K\nK is for Kite, lets say it together, Kite, now it's your turn",
+        "source": "Mic",
+        "timeInverval": "24.20s",
+        "userResponse": "Kite : kite",
+        "userTrails": 13
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Let's call the next letter, D\nD is for Doctor, repeat after me, Doctor, Say it again",
+        "source": "Mic",
+        "timeInverval": "5.13s",
+        "userResponse": "Doctor : doctor",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The first letter is A!\nA is for Astronaut, repeat after me, Astronaut, now you go.",
+        "source": "Mic",
+        "timeInverval": "8.68s",
+        "userResponse": "Astronaut  : astronaut",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Next letter is B\nB is for Banana, a banana is a fruit, Come say it again, Banana",
+        "source": "Mic",
+        "timeInverval": "6.00s",
+        "userResponse": "Banana  : banana",
+        "userTrails": 1
+      }
+    ],
+    "timeSpent": {
+      "timeAI": "",
+      "timeHomeScreen": "37.15s",
+      "timeLesson": "710.62s",
+      "timeMaps": "2.32s",
+      "timeQuiz": "174.57s",
+      "timeRewardPage": "",
+      "timeStore": ""
+    },
+    "userId": "aashutosh21073479"
+  },
+  "13-05-2023 13:22:28": {
+    "age": 30,
+    "dateTime": "13-05-2023 13:22:28",
+    "name": "aashutosh",
+    "personalRecords": {
+      "CC": 0,
+      "EA": 0,
+      "TCA": 0,
+      "TQA": 0
+    },
+    "timeSpent": {
+      "timeAI": "",
+      "timeHomeScreen": "236.42s",
+      "timeLesson": "",
+      "timeMaps": "4.90s",
+      "timeQuiz": "",
+      "timeRewardPage": "",
+      "timeStore": "102.96s"
+    },
+    "userId": "aashutosh21073479"
+  },
+  "13-05-2023 22:36:49": {
+    "age": 30,
+    "dateTime": "13-05-2023 22:36:49",
+    "name": "aashutosh",
+    "personalRecords": {
+      "CC": 24,
+      "EA": 9,
+      "TCA": 77,
+      "TQA": 77
+    },
+    "questionsData": [
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Let's call the next letter, D\nD is for Dinosaur, repeat after me, Dinosaur, Say it again",
+        "source": "Mic",
+        "timeInverval": "7.10s",
+        "userResponse": "Dinosaur : dinosaur",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Now, comes E\nE is for Egg, let's say it together, Egg, Let's say it again",
+        "source": "Mic",
+        "timeInverval": "6.12s",
+        "userResponse": "Egg : egg",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The next letter is F\nF is for Frog, Yes, you are right, Frog, say it again, Come on.",
+        "source": "Mic",
+        "timeInverval": "4.73s",
+        "userResponse": "Frog : frog",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Welcome letter G\nG is for Goat, repeat after me, Goat, now you go...",
+        "source": "Mic",
+        "timeInverval": "3.85s",
+        "userResponse": "Goat : goat",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Then comes H\nH is for Hat, Say it along, Hat, come on, your turn",
+        "source": "Mic",
+        "timeInverval": "4.37s",
+        "userResponse": "Hat : had",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Next letter is I\nI is for Igloo, say with a smile, Igloo , Very good, say it again",
+        "source": "Mic",
+        "timeInverval": "4.40s",
+        "userResponse": "Igloo : igloo",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The next letter is K\nK is for Kite, lets say it together, Kite, now it's your turn",
+        "source": "Mic",
+        "timeInverval": "5.03s",
+        "userResponse": "Kite : kite",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Lets learn about letter Y\nY is for Yoga, repeat after me, Yoga, come on, its your turn",
+        "source": "Mic",
+        "timeInverval": "12.32s",
+        "userResponse": "Yoga : yoga",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is P!\nP is for Pencil, repeat after me, Pencil, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.93s",
+        "userResponse": "Pencil : pencil",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Today we are going to go Cycling… \nSo what are we doing again?",
+        "source": "Mic",
+        "timeInverval": "8.13s",
+        "userResponse": "Cycling : cycling",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "It's time to play Badminton… \n Let's gear and say what are we playing agian?",
+        "source": "Mic",
+        "timeInverval": "5.22s",
+        "userResponse": "Badminton : badminton",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Today we are going to play Baseball... \n Are you ready? Come, tell me what are we going to play?",
+        "source": "Mic",
+        "timeInverval": "4.63s",
+        "userResponse": "Baseball : baseball",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Today we are going to play Golf… \nSo, what are we playing again?",
+        "source": "Mic",
+        "timeInverval": "6.32s",
+        "userResponse": "Golf : gold",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Are you ready to learn Karate?... \nSo, what are we doing again?",
+        "source": "Mic",
+        "timeInverval": "5.15s",
+        "userResponse": "Karate : karate",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Get ready, we are going Horse riding today... \nSo, where are we going today?",
+        "source": "Mic",
+        "timeInverval": "7.38s",
+        "userResponse": "Horse riding : horse riding riding",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Get ready, we are going Horse riding today... \nSo, where are we going today?",
+        "source": "Mic",
+        "timeInverval": "5.78s",
+        "userResponse": "Horse riding : horse riding",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Come let's go Swimming together... \nSo what are we doing again?",
+        "source": "Mic",
+        "timeInverval": "4.65s",
+        "userResponse": "Swimming : swimming",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Sports",
+        "errorAttempts": "",
+        "location": "Playground",
+        "question": "Are you ready to learn Karate?... \nSo, what are we doing again?",
+        "source": "Mic",
+        "timeInverval": "5.32s",
+        "userResponse": "Karate : karate",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "Today, we are going to cook a Pizza… \nSo, what are we going to cook today?",
+        "source": "Mic",
+        "timeInverval": "6.22s",
+        "userResponse": "Pizza : pizza",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "It's cold outside, and it's time to make some Soup... \nTell me, what are we making?",
+        "source": "Mic",
+        "timeInverval": "10.27s",
+        "userResponse": "Soup : sue",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "It's time to bake some Cookies… \nAre you excited? What are we baking today?",
+        "source": "Mic",
+        "timeInverval": "4.80s",
+        "userResponse": "Cookies : cookies",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "The dish we are cooking today is Pasta... \nOne more time, what are we cooking?",
+        "source": "Mic",
+        "timeInverval": "4.68s",
+        "userResponse": "Pasta : pasta",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "Let's learn how to make Curry…. \nOne more time, what are we cooking?",
+        "source": "Mic",
+        "timeInverval": "5.08s",
+        "userResponse": "Curry : curry",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "Are you excited to learn about Chinese noodles.... \nCome, tell me what are we going to cook today?",
+        "source": "Mic",
+        "timeInverval": "5.13s",
+        "userResponse": "Chinese noodles : chinese noodles",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "2 - 4.43s, ",
+        "location": "Canteen",
+        "question": "It's cold outside, and it's time to make some Soup... \nTell me, what are we making?",
+        "source": "Mic",
+        "timeInverval": "8.62s",
+        "userResponse": "Soup : sue",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "",
+        "location": "Canteen",
+        "question": "Are you excited to learn about Chinese noodles.... \nCome, tell me what are we going to cook today?",
+        "source": "Mic",
+        "timeInverval": "5.58s",
+        "userResponse": "Chinese noodles : chinese noodles",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Restaurant",
+        "errorAttempts": "noodles - 5.25s, ",
+        "location": "Canteen",
+        "question": "The dish we are cooking today is Pasta... \nOne more time, what are we cooking?",
+        "source": "Mic",
+        "timeInverval": "9.52s",
+        "userResponse": "Pasta : faster",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Animals",
+        "errorAttempts": "",
+        "location": "Zoo",
+        "question": "This animal is called a Dog... Did you know that? So what is this animal again?",
+        "source": "Mic",
+        "timeInverval": "0.48s",
+        "userResponse": "Pasta : faster",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "charlie - 6.20s, ",
+        "location": "School",
+        "question": "Now we will learn about letter J\nJ is for Jam, repeat after me, Jam, Say it for me again,",
+        "source": "Mic",
+        "timeInverval": "10.03s",
+        "userResponse": "Jam : jar",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "g - 4.17s, he - 3.90s, she - 4.23s, g - 14.71s, g - 13.67s, keith - 7.33s, ",
+        "location": "School",
+        "question": "The next letter is K\nK is for Key, lets say it together, Key, now it's your turn",
+        "source": "Mic",
+        "timeInverval": "61.66s",
+        "userResponse": "Key : key",
+        "userTrails": 19
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is L!\nL is for Library, repeat after me, Library, now you go...",
+        "source": "Mic",
+        "timeInverval": "7.20s",
+        "userResponse": "Library : library",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Now the letter is M!\nM is for Moon, repeat after me, Moon, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.50s",
+        "userResponse": "Moon : moon",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is N!\nN is for Nest, repeat after me, Nest, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.05s",
+        "userResponse": "Nest : best",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Lets learn about letter Y\nY is for Yoga, repeat after me, Yoga, come on, its your turn",
+        "source": "Mic",
+        "timeInverval": "4.98s",
+        "userResponse": "Yoga : yoga",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "add - 6.47s, ",
+        "location": "School",
+        "question": "Then comes C\nC is for Circle, a circle is a shape, it's your turn now",
+        "source": "Mic",
+        "timeInverval": "13.85s",
+        "userResponse": "Circle : circle",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "prague - 4.35s, ",
+        "location": "School",
+        "question": "The next letter is F\nF is for Frog, Yes, you are right, Frog, say it again, Come on.",
+        "source": "Mic",
+        "timeInverval": "8.38s",
+        "userResponse": "Frog : from",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Let's welcome letter O!\nO is for Orange, repeat after me, Orange, Let's say it again",
+        "source": "Mic",
+        "timeInverval": "4.98s",
+        "userResponse": "Orange : orange",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is P!\nP is for Pear, repeat after me, Pear, now you go...",
+        "source": "Mic",
+        "timeInverval": "5.12s",
+        "userResponse": "Pear : beer",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is Q!\nQ is for Quill, repeat after me, Quill, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.65s",
+        "userResponse": "Quill : quinn",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "rewards - 4.40s, ",
+        "location": "School",
+        "question": "The letter is R!\nR is for Robot, a big bright Robot, it's your turn to say it again",
+        "source": "Mic",
+        "timeInverval": "8.58s",
+        "userResponse": "Robot : robot",
+        "userTrails": 4
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "And now we will learn about the letter S!\nS is for Saw, repeat after me, Saw. Come, say again",
+        "source": "Mic",
+        "timeInverval": "4.93s",
+        "userResponse": "Saw : saw",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Let's call the next letter, D\nD is for Dinosaur, repeat after me, Dinosaur, Say it again",
+        "source": "Mic",
+        "timeInverval": "5.03s",
+        "userResponse": "Dinosaur : dinosaur",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Very Good! Your are doing great... The next letter is X\nX is for X-ray, let's say it again, X-ray, now you go...",
+        "source": "Mic",
+        "timeInverval": "5.33s",
+        "userResponse": "X-ray : x-ray",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "beer - 4.90s, pier - 3.45s, melon - 8.12s, ",
+        "location": "School",
+        "question": "The letter is L!\nL is for Lemon, repeat after me, Lemon, now you go...",
+        "source": "Mic",
+        "timeInverval": "23.88s",
+        "userResponse": "Lemon : lemon",
+        "userTrails": 10
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is T!\nT is for Tomato, repeat after me, Tomato, now you go...",
+        "source": "Mic",
+        "timeInverval": "4.28s",
+        "userResponse": "Tomato : nomato",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The letter is U!\nU is for Umbrella, repeat after me, Umbrella, now you go...",
+        "source": "Mic",
+        "timeInverval": "6.78s",
+        "userResponse": "Umbrella : umbrella",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The next letter is V!\nV is for Volcano, let's repeat it, Volcano, come on, your turn.",
+        "source": "Mic",
+        "timeInverval": "11.55s",
+        "userResponse": "Volcano : volcano",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Then comes W\nW is for Windmill, a Windmill is a big building, now say it again",
+        "source": "Mic",
+        "timeInverval": "6.05s",
+        "userResponse": "Windmill : when will",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "Very Good! Your are doing great... The next letter is X\nX is for Xylophone, let's say it again, Xylophone, now you go...",
+        "source": "Mic",
+        "timeInverval": "5.10s",
+        "userResponse": "Xylophone : xylophone",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "fencing - 4.60s, cancel - 7.05s, cancel - 6.42s, cancel - 6.63s, fan seal - 7.95s, fencing - 6.88s, benson - 7.77s, benson - 9.85s, bansal - 8.58s, ",
+        "location": "School",
+        "question": "The letter is P!\nP is for Pencil, repeat after me, Pencil, now you go...",
+        "source": "Mic",
+        "timeInverval": "75.74s",
+        "userResponse": "Pencil : pencil",
+        "userTrails": 29
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "",
+        "location": "School",
+        "question": "The first letter is A!\nA is for Apple, repeat after me, Apple, now you go",
+        "source": "Mic",
+        "timeInverval": "15.86s",
+        "userResponse": "Apple : apple",
+        "userTrails": 1
+      },
+      {
+        "courseTitle": "Alphabet",
+        "errorAttempts": "art - 40.33s, ",
+        "location": "School",
+        "question": "Then comes W\nW is for World, The big, wide, World, now say it again",
+        "source": "Mic",
+        "timeInverval": "78.42s",
+        "userResponse": "Apple : apple",
+        "userTrails": 4
+      }
+    ],
+    "timeSpent": {
+      "timeAI": "",
+      "timeHomeScreen": "140.30s",
+      "timeLesson": "687.71s",
+      "timeMaps": "3.53s",
+      "timeQuiz": "316.96s",
+      "timeRewardPage": "",
+      "timeStore": "10.92s"
+    },
+    "userId": "aashutosh21073479"
+  },
+  "13-05-2023 23:14:12": {
+    "age": 0,
+    "dateTime": "13-05-2023 23:14:12",
+    "name": "aashutosh",
+    "personalRecords": {
+      "CC": 0,
+      "EA": 0,
+      "TCA": 0,
+      "TQA": 0
+    },
+    "timeSpent": {
+      "timeAI": "",
+      "timeHomeScreen": "1.79s",
+      "timeLesson": "",
+      "timeMaps": "",
+      "timeQuiz": "",
+      "timeRewardPage": "",
+      "timeStore": ""
+    },
+    "userId": "aashutosh21073479"
+  },
+  "14-05-2023 14:39:30": {
+    "age": 30,
+    "dateTime": "14-05-2023 14:39:30",
+    "name": "aashutosh",
+    "personalRecords": {
+      "CC": 0,
+      "EA": 0,
+      "TCA": 0,
+      "TQA": 0
+    },
+    "timeSpent": {
+      "timeAI": "",
+      "timeHomeScreen": "15.64s",
+      "timeLesson": "",
+      "timeMaps": "1.25s",
+      "timeQuiz": "",
+      "timeRewardPage": "",
+      "timeStore": ""
+    },
+    "userId": "aashutosh21073479"
+  },
+  "25-05-2023 16:25:21": {
+    "age": 0,
+    "dateTime": "25-05-2023 16:25:21",
+    "name": "aashutosh",
+    "personalRecords": {
+      "CC": 0,
+      "EA": 0,
+      "TCA": 0,
+      "TQA": 0
+    },
+    "timeSpent": {
+      "timeAI": "",
+      "timeHomeScreen": "6.65s",
+      "timeLesson": "",
+      "timeMaps": "",
+      "timeQuiz": "",
+      "timeRewardPage": "",
+      "timeStore": ""
+    },
+    "userId": "aashutosh21073479"
+  }
+}
