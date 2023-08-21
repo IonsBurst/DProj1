@@ -85,9 +85,6 @@ def main_page():
     elif options == "Graphs and Data":
         graphs_and_data()
 
-import streamlit as st
-import json
-
 def prompt_request():
     st.header("What would you like Teddy to teach you today?")
 
