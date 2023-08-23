@@ -15,6 +15,9 @@ st.markdown(
         background-color: #9c27b0;
         color: white;
     }
+    .stApp{
+        background-color: #e3cb2b !important;
+    }
     .stTextInput input[type="text"],
     .stTextInput input[type="password"] {
         background-color: #fff59d;
@@ -36,10 +39,12 @@ user_data = {
     'info@oiedu.co.uk': 'OI12345678',
 }
 
+
 def login_with_email_password(email, password):
     if email in user_data and user_data[email] == password:
         return True
     return False
+
 
 def login_page():
     st.image('TeddyLogo.png', width=200)
@@ -54,7 +59,8 @@ def login_page():
             else:
                 st.error('Invalid Child ID. It should be a 6 digit number.')
     else:
-        st.success(f"Logged in successfully as child: {st.session_state['child_id']}")
+        st.success(
+            f"Logged in successfully as child: {st.session_state['child_id']}")
 
     email = st.text_input("Email")
     password = st.text_input("Password", type="password")
@@ -72,6 +78,7 @@ def login_page():
 
     google_login_button = st.button("Login with Google")
 
+
 def main_page():
     st.title("Parents Dashboard")
     st.header(f"Child ID: {st.session_state['child_id']}")
@@ -79,17 +86,20 @@ def main_page():
     st.sidebar.image("TeddyLogo.png", width=100)
     st.sidebar.title("Navigation")
 
-    options = st.sidebar.radio("Pages", options=["What would you like Teddy to teach you today?", "Graphs and Data"])
+    options = st.sidebar.radio("Pages", options=[
+                               "What would you like Teddy to teach you today?", "Graphs and Data"])
 
     if options == "What would you like Teddy to teach you today?":
         prompt_request()
     elif options == "Graphs and Data":
         graphs_and_data()
 
+
 def prompt_request():
     st.header("What would you like Teddy to teach you today?")
 
-    button_a = st.button("Practice naming the 4 nations in the United Kingdom.")
+    button_a = st.button(
+        "Practice naming the 4 nations in the United Kingdom.")
     button_b = st.button("Practice the vowels.")
     button_c = st.button("What are the colours in the rainbow?")
     button_d = st.button("Play the game on alphabets")
@@ -114,6 +124,7 @@ def prompt_request():
             with open("teddyGif1.gif", "rb") as gif_file:
                 gif_data = gif_file.read()
                 st.image(gif_data)
+
 
 def graphs_and_data():
     st.header("Graphs and Data")
@@ -147,7 +158,8 @@ def graphs_and_data():
 
     fig, ax = plt.subplots()
     colors = ['#B70ED6', '#B70ED6']
-    ax.pie(sizes, labels=labels, autopct="%1.1f%%", startangle=90, colors=colors)
+    ax.pie(sizes, labels=labels, autopct="%1.1f%%",
+           startangle=90, colors=colors)
     ax.set_title("Percentage of Correct Answers")
 
     fig.patch.set_facecolor('#E3CB2B')
@@ -212,6 +224,7 @@ def graphs_and_data():
     ax.set_facecolor('#E3CB2B')
 
     st.pyplot(fig)
+
 
 if __name__ == "__main__":
     if 'child_id' in st.session_state and st.session_state.get('verified', False):
