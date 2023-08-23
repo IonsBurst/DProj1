@@ -152,14 +152,12 @@ def graphs_and_data():
     labels = ["Correctly Answered", "Incorrectly Answered"]
     sizes = [highest_tca, totalwrongquestion]
 
+    st.subheader("Percentage of Correct Answers")
     fig, ax = plt.subplots()
     colors = ['#B70ED6', '#B70ED6']
     ax.pie(sizes, labels=labels, autopct="%1.1f%%", startangle=90, colors=colors)
-    ax.set_title("Percentage of Correct Answers")
-
     fig.patch.set_facecolor('#E3CB2B')
     ax.set_facecolor('#E3CB2B')
-
     st.pyplot(fig)
 
     highesterror1 = 0
@@ -185,9 +183,10 @@ def graphs_and_data():
                     highesterror3 = comma_count
                     top3 = question.get("question")
 
-    st.write("1st Difficult Question: ", top1)
-    st.write("2nd Difficult Question: ", top2)
-    st.write("3rd Difficult Question: ", top3)
+    st.subheader("Difficult Questions")
+    st.write("1st Difficult Question:", top1)
+    st.write("2nd Difficult Question:", top2)
+    st.write("3rd Difficult Question:", top3)
 
     alphabet_total = 0
     sports_total = 0
@@ -204,6 +203,7 @@ def graphs_and_data():
             elif course == "Restaurant":
                 restaurant_total += numeric_time
 
+    st.subheader("Time Spent on Categories")
     data = pd.DataFrame({
         'Variables': ['Alphabet', 'Sports', 'Restaurant'],
         'Values': [alphabet_total, sports_total, restaurant_total]
@@ -213,12 +213,10 @@ def graphs_and_data():
     bar_color = '#B70ED6'
     ax.bar(data['Variables'], data['Values'], color=bar_color)
     ax.set_ylabel('Seconds')
-    ax.set_title('Time Spent on Categories')
-
     fig.patch.set_facecolor('#E3CB2B')
     ax.set_facecolor('#E3CB2B')
-
     st.pyplot(fig)
+
 
 if __name__ == "__main__":
     if 'child_id' in st.session_state and st.session_state.get('verified', False):
