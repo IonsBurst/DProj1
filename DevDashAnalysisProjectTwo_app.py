@@ -84,7 +84,7 @@ def main_page():
     options = st.sidebar.radio("Pages", options=["What would you like Teddy to teach you today?", "Graphs and Data"])
 
     if options == "What would you like Teddy to teach you today?":
-        prompt_request()  # Move the function call here
+        prompt_request()  
     elif options == "Graphs and Data":
         graphs_and_data()
 
@@ -107,20 +107,23 @@ def prompt_request():
         button_f: "Practice breathing exercises for 3 minutes."
     }
 
+    selected_option = st.selectbox("Select an option:", ["App Start", "Game Start", "Game End"])
+    text_input = st.text_input("Enter your prompt here:")
+
+    selected_prompt = None
     for button, prompt in prompt_mapping.items():
         if button:
             st.write("You selected:", prompt)
-            selected_option = st.selectbox("Select an option:", ["App Start", "Game Start", "Game End"])
-
-            data = {"Args": prompt, "Selected Option": selected_option}
-            with open("output.json", "w") as json_file:
-                json.dump(data, json_file, indent=4)
-                text_input = st.text_input("Enter your prompt here:")
+            selected_prompt = prompt
 
             with open("teddyGif1.gif", "rb") as gif_file:
                 gif_data = gif_file.read()
                 st.image(gif_data)
 
+    if selected_prompt is not None:
+        data = {"Args": selected_prompt, "Selected Option": selected_option, "Text Input": text_input}
+        with open("output.json", "w") as json_file:
+            json.dump(data, json_file, indent=4)  
 
 def graphs_and_data():
     st.header("Graphs and Data")
